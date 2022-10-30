@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coderhouse/static/css/main.073c9b0a.css",
-    "main.js": "/coderhouse/static/js/main.e115b14d.js",
-    "static/js/787.ad8d3d2f.chunk.js": "/coderhouse/static/js/787.ad8d3d2f.chunk.js",
-    "index.html": "/coderhouse/index.html",
-    "main.073c9b0a.css.map": "/coderhouse/static/css/main.073c9b0a.css.map",
-    "main.e115b14d.js.map": "/coderhouse/static/js/main.e115b14d.js.map",
-    "787.ad8d3d2f.chunk.js.map": "/coderhouse/static/js/787.ad8d3d2f.chunk.js.map"
+    "main.css": "/1stproyecto/static/css/main.073c9b0a.css",
+    "main.js": "/1stproyecto/static/js/main.e9f65909.js",
+    "static/js/787.ad8d3d2f.chunk.js": "/1stproyecto/static/js/787.ad8d3d2f.chunk.js",
+    "index.html": "/1stproyecto/index.html",
+    "main.073c9b0a.css.map": "/1stproyecto/static/css/main.073c9b0a.css.map",
+    "main.e9f65909.js.map": "/1stproyecto/static/js/main.e9f65909.js.map",
+    "787.ad8d3d2f.chunk.js.map": "/1stproyecto/static/js/787.ad8d3d2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e115b14d.js"
+    "static/js/main.e9f65909.js"
   ]
 }
